@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143765995985",
+    "project_id": "myygame-bb4f6",
+    "storage_bucket": "myygame-bb4f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143765995985:android:155ed0422df5726833e0f0",
+        "android_client_info": {
+          "package_name": "com.mycompany.mygame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_piCnGq9mY038aq5MpLnD8QwsT8rw3tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
